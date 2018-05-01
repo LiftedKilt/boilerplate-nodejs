@@ -1,3 +1,4 @@
 {
-	"id": "nodejs"
+	"id": "nodejs",
+	"port": 8888
 }
